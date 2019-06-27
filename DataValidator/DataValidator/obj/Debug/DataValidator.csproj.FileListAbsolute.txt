@@ -1,0 +1,6 @@
+c:\users\narco\documents\visual studio 2015\Projects\DataValidator\DataValidator\bin\Debug\DataValidator.exe.config
+c:\users\narco\documents\visual studio 2015\Projects\DataValidator\DataValidator\bin\Debug\DataValidator.exe
+c:\users\narco\documents\visual studio 2015\Projects\DataValidator\DataValidator\bin\Debug\DataValidator.pdb
+c:\users\narco\documents\visual studio 2015\Projects\DataValidator\DataValidator\obj\Debug\DataValidator.csprojResolveAssemblyReference.cache
+c:\users\narco\documents\visual studio 2015\Projects\DataValidator\DataValidator\obj\Debug\DataValidator.exe
+c:\users\narco\documents\visual studio 2015\Projects\DataValidator\DataValidator\obj\Debug\DataValidator.pdb
